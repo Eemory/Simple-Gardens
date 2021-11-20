@@ -1,0 +1,282 @@
+.font.link{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Caveat', cursive;
+}
+
+
+@media (min-width: 400px) {
+        .plant-card-div {
+            width: 70%;
+            height: 30%;
+            margin-right: 10%;
+        }
+        
+        .card-title {
+            text-transform: capitalize;
+            font-family: 'Dancing Script';
+            display: flex;
+            justify-content: center;
+            background-color: #F1CCD7;
+        }
+    
+        .line-info {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly
+        }
+        
+        .edit-button {
+            height: fit-content;
+        }
+    
+        .add-note-button {
+            height: fit-content;
+        }
+    
+        .plant-card {
+            display: flex;
+            justify-content: center;
+            padding-top: 2rem;
+            padding-left: 7rem;
+            padding-bottom: 2rem;
+            text-transform: capitalize;
+            font-family: 'Caveat';
+            font-size: 20px;;
+        }
+    
+        .item{
+            list-style: none;
+        }
+    
+        .image-upload {
+            width:20%;
+        }
+    
+        .image {
+            height: 50%;
+        }
+        
+        .plant-info{
+            display: flex;
+            flex-direction: column;
+        }
+    
+        .index {
+            padding-top: 2rem;
+        }
+    }
+
+@media (min-width: 700px) {
+.plant-card-div {
+    width: 70%;
+    height: 40%;
+}
+
+    .card-title {
+        text-transform: capitalize;
+        font-family: 'Dancing Script';
+        display: flex;
+        justify-content: center;
+    }
+
+    .line-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    .edit-button {
+        height: fit-content;
+    }
+
+    .add-note-button {
+        height: fit-content;
+    }
+
+    .plant-card {
+        display: flex;
+        justify-content: center;
+        padding-top: 2rem;
+        padding-left: 7rem;
+        padding-bottom: 2rem;
+        text-transform: capitalize;
+        font-family: 'Caveat';
+        font-size: 20px;
+    }
+
+    .item{
+        list-style: none;
+    }
+
+    .image-upload {
+        width:20%;
+    }
+
+    .image {
+        height: 50%;
+    }
+    
+    .plant-info{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .index {
+        padding-top: 2rem;
+    }
+}
+
+@media (min-width: 800px) {
+    .card-title {
+        text-transform: capitalize;
+        font-family: 'Dancing Script';
+        display: flex;
+        justify-content: center;
+    }
+
+    .line-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    .edit-button {
+        height: fit-content;
+    }
+
+    .add-note-button {
+        height: fit-content;
+    }
+
+    .plant-card {
+        display: flex;
+        justify-content: center;
+        padding-top: 2rem;
+        padding-left: 7rem;
+        padding-bottom: 2rem;
+        text-transform: capitalize;
+        font-family: 'Caveat';
+        font-size: 20px;
+    }
+
+    .item{
+        list-style: none;
+    }
+
+    .image-upload {
+        width:20%;
+    }
+
+    .image {
+        height: 50%;
+    }
+    
+    .plant-info{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .index {
+        padding-top: 2rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1st */
+/*.card-title {
+    text-transform: capitalize;
+    font-family: 'Dancing Script';
+}
+
+.line-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.add-note-button {
+    height: fit-content;
+}
+
+.plant-card {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-left: 7rem;
+    padding-bottom: 2rem;
+    text-transform: capitalize;
+    font-family: 'Caveat';
+    font-size: 20px;
+}
+
+.item{
+    list-style: none;
+}
+
+.image-upload {
+    width:20%;
+}
+
+.image {
+    height: 50%;
+}
+
+.plant-info{
+    display: flex;
+    flex-direction: column;
+}
+
+.index {
+    display: flex;
+    flex-direction: row;
+}
+
+@media (min-width: 700px) {
+    .index {
+        width: 30%;
+        margin-left: 5%;
+        padding-left: 10%;
+        padding-top: 2%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .index {
+        width: 30%;
+        margin-left: 0%;
+        padding-left: 5%;
+        padding-top: 2%;
+    }
+}
+
+@media (min-width: 1250px){
+    .index {
+        width: 30%;
+        margin-left: 5%;
+        padding-left: 10%;
+        padding-top: 2%;
+    }
+    
+}*/

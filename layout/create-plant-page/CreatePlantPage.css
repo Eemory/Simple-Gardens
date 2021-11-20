@@ -1,0 +1,62 @@
+.font.link{
+   font-family: 'Dancing Script', cursive;
+   font-family: 'Caveat', cursive;
+}
+
+.submit-form{
+   display: flex;
+   flex-direction: column;
+}
+
+.form-container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+font-family: 'Caveat';
+font-size: 20px;
+padding: 1rem;
+margin-right: 20%;
+border: 2px solid#2E765E !important;
+}
+
+.index{
+   width: 30%
+}
+
+.page{
+   display: flex;
+   flex-direction: row;
+}
+
+.add-form{
+   border-radius: 10px;
+   align-items: center;
+   margin: 0% 0 0 10%;
+   padding: 1%;
+   width: 50%
+}
+
+.form-item{
+   padding: 5px;
+   width: 100%;
+}
+
+input{
+   height:100%;
+   width: 100%;
+}
+
+h1{
+   padding: 20px;
+   display: flex;
+   justify-content: center;
+   font-family: 'Caveat';
+}
+
+h3 {
+   text-align: center;
+}
+
+.addButton{
+   width: 100%;
+}

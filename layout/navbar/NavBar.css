@@ -1,0 +1,28 @@
+.font.link{
+    font-family: 'Dancing Script', cursive;
+}
+
+.navbar {
+    background-color: #E2808A
+}
+
+.brand {
+   font-size: 30px !important;
+    font-family: 'Dancing Script';
+}
+
+.link {
+    font-family: 'Dancing Script';
+    font-size: 24px;
+}
+
+.button {
+    font-family: 'Dancing Script';
+    font-size: 22px !important;
+    text-decoration: none !important;
+}
+
+.nav {
+   display: flex;
+   justify-content: space-between;
+}

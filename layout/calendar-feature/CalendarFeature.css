@@ -1,0 +1,41 @@
+.font.link{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Caveat', cursive;
+}
+
+.calendar-card {
+    font-family: 'Caveat';
+}
+
+.card-header{
+    font-family: 'Dancing Script';
+}
+
+.subtitle {
+    text-align: center;
+    padding: 2px;
+    font-size: 20px !important;
+}
+
+.calendar-input {
+    height: fit-content;
+    margin-bottom: .5rem;
+}
+
+.calendar-start {
+    margin-bottom: .5rem;
+}
+
+.add-event {
+    margin-top: .5rem;
+}
+
+.big-calendar {
+    height: 500px;
+    margin: 50px;
+    padding-top: 5rem;
+}
+
+.h1 {
+    font-family: 'Dancing Script';
+}

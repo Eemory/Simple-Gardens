@@ -1,0 +1,13 @@
+.font.link {
+    font-family: 'Caveat', cursive;
+}
+
+.note-item {
+    font-family: caveat;
+    margin-bottom: .5rem;
+    border: 1px solid #2E765E !important;
+}
+
+.date {
+    margin-top: .5rem;
+}

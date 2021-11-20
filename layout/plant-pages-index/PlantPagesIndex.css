@@ -1,0 +1,49 @@
+.font.link{
+    font-family: 'Dancing Script', cursive;
+}
+
+@media (min-width: 400px) {
+
+    Button {
+        height: fit-content;
+        float: right;
+        margin-left: 2px;
+    }
+
+    .pages-container{
+        margin-left: 0%;
+      }
+    
+    .list-group {
+        display: flex;
+        flex-direction: column;
+        margin-left: 0%;
+        text-transform: capitalize;
+        font-family: 'Dancing Script';
+    }
+
+    .container {
+        width: 100%;
+        padding-bottom: 1rem;
+    }
+
+    .list-item {
+        font-size: 20px;
+        text-decoration: none;
+        color:black;
+    }
+
+    .card-header{
+        justify-content: center;
+        text-align: center;
+        font-size: 25px;
+        background-color: #F1CCD7 !important;
+        border: 2px solid #F1CCD7 !important;
+    }
+
+    .pages-container{
+        width: 100%;
+    }
+    
+}
+

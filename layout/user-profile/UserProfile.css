@@ -1,0 +1,12 @@
+.font.link{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Caveat', cursive;
+ }
+
+.profile-card {
+    display: flex;
+    justify-content: center;
+    padding: 2rem ;
+}
+
+

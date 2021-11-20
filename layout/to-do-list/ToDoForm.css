@@ -1,0 +1,15 @@
+.todo-form {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+}
+
+.todo-input {
+    height: 30px;
+    font-family: "Caveat";
+}
+
+.add-button {
+    font-family: 'Caveat';
+    font-size: 15px;
+}

@@ -1,0 +1,19 @@
+.signup-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 40vh;
+    margin: 5rem;
+}
+
+.signup-card-body {
+    margin-top: 3rem;
+    width: 100%;
+    max-width: 500px;
+}
+
+.text {
+    width: 100%;
+    text-align: center;
+}
+

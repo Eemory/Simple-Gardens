@@ -1,0 +1,30 @@
+.font.link{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Caveat', cursive;
+}
+
+.completed {
+    display: flex;
+    flex-direction: row;
+    text-decoration: line-through !important;
+}
+
+.todo {
+    display: flex;
+    flex-direction: row;
+    font-size: large;
+    padding: .5rem
+}
+
+.todo-item {
+    font-family: 'Caveat';
+    border: 2px solid#638C80 !important;
+}
+
+.trash-button {
+    margin-left: 5px;
+}
+
+.check-button {
+    margin-left: 5px;
+}
