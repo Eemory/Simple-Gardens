@@ -4,7 +4,7 @@ Simple Gardens is a full-stack web-application that I built using React and Fire
 
 the 'create-plant' feature is made using react-bootstrap JSX elements. This uploads the data to be stored in firestore.
 ![create-page-image](https://github.com/Eemory/Simple-Gardens/blob/main/simple-gardens-readme-images/sg-createpage.png?raw=true)
-the Dashboard or Home page shows the user their index of plants to the left hand side, as well as shows a todo list feature. It also includes a calendar feature using 'react-big-calendar' that utilizes local storage to save evetns the user may add. The todo-list uses local storage and gives the option to cross off completed tasks and delete them.
+the Dashboard or Home page shows the user their index of plants to the left hand side, as well as shows a todo list feature. It also includes a calendar feature using 'react-big-calendar' that utilizes local storage to save evetns the user may add. The todo-list uses local storage and gives the option to cross off completed tasks and delete them. **note: I am currently aware of an error being triggered in the console by the 'react-big-calendar' package and am working on a fix.
 ![dashboard-image](https://github.com/Eemory/Simple-Gardens/blob/main/simple-gardens-readme-images/Dashboard.png?raw=true)
 the login page is made using bootstrap elements and firebase-authentication
 ![login-image](https://github.com/Eemory/Simple-Gardens/blob/main/simple-gardens-readme-images/sg-login.png?raw=true)
